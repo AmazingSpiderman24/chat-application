@@ -45,3 +45,10 @@ npm run dev
 ## 🚀 Live Demo  
 [Click here to try the app](https://chat-app-4o0w.onrender.com/login)  
 
+## License<br>
+This project is licensed under the MIT License.
+
+## Contact<br>
+You can reach me via email at <shraybijalwan24@gmail.com> or connect with me on [LinkedIn](https://www.linkedin.com/in/shray-bijalwan-207926288). Feedback, suggestions, and opportunities for collaboration are always welcome!
+
+Thank you for visiting. Enjoy exploring the projects!
